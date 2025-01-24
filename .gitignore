@@ -1,0 +1,7 @@
+# Ignorar pastas de ambientes virtuais Python
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
